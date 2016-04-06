@@ -203,6 +203,4 @@
     timeout: 27000
   });
 
-  checkLockable();
-
 }());
